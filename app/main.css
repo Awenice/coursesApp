@@ -1,0 +1,37 @@
+.logo {
+    color: black;
+    font-size: 32px;
+}
+
+.logo:hover {
+    color: black;
+    text-decoration: none;
+}
+
+.page-footer {
+    text-align: center;
+    padding-top: 9px;
+    margin: 20px auto 40px;
+    border-top: 1px solid #eee;
+}
+
+.logout p {
+    text-align: right;
+}
+
+.logout p:last-child {
+    margin-bottom: 0;
+}
+
+.breadcrumb {
+    line-height: 30px;
+    margin: 0 0 0 30px;
+}
+
+.courses-list {
+    margin-top: 20px;
+}
+
+.course-item {
+    margin: 10px 0;
+}
